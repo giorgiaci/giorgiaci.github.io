@@ -15,9 +15,9 @@ body {
     font-size: 15px;
     color:white}
 .item1 {    grid-area: header;    background-color: black ;   padding-top:0px!important; }
- .item2 { grid-area: menu;    background-color:rgba(255, 255, 255, 0.2);  border:1px solid white; border-radius:4px; }
- .item3 { grid-area: main; background-color:rgb(255, 254, 254, 0.2);  border:1px solid white; border-radius:4px;}
- .item4 { grid-area: right; background-color:rgb(255, 254, 254, 0.2); border:1px solid white; border-radius:4px;}
+ .item2 { grid-area: menu;    background-color:rgb(255 255 255 / 46%);  border:1px solid white; border-radius:4px; }
+ .item3 { grid-area: main; background-color:rgb(255 255 255 / 46%);  border:1px solid white; border-radius:4px;}
+ .item4 { grid-area: right; background-color:rgb(255 255 255 / 46%); border:1px solid white; border-radius:4px;}
  .item5 { grid-area: footer;  background-color:black;border:1px solid white;border-radius:4px;padding: 20px 0;   font-size: 18px;}
  .item6 { grid-area: last; display:none;  background-color:#f0f321 ;  padding: 20px 0;  border:1px solid black; border-radius:4px;     padding-left: 14px;}
  .item11 {  grid-area: bo;   background-color:#f0f321; color: black;  padding: 20px 0;  border:1px solid black; border-radius:4px; }
