@@ -279,8 +279,7 @@ input {
   .cwLogo{    max-width: 50%;    position: relative;    top: 10%;} 
   .gitLogo, .cFLogo {      max-width: 60%;  }
  
-  .item6 {  grid-area: last; height: 220px;padding: 10px 120px !important;}  
-  .item6 > div { font-size: 17px;  text-align: left;       margin: 60px 16px;}
+  .item6 {  grid-area: last; height: 220px;} 
   .item7 a, .item8 a, .item9 a, .item10 a {   font-size: 20px;}
   .item11{margin-bottom: 60px;}
   
