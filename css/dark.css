@@ -25,12 +25,12 @@ body {
 
 
  .item6 > div {   text-align: left;  margin: 20px;  float: left;  height: 60px;}
- .item7 li, .item8, .item9, .item10 li{
+ .item_6, .item6_, .item7 li, .item8, .item9, .item10 li{
   color: black;
   }
   .item2 a, .item3 a, .item4 a {color:black;}
 
-    .item7, .item8, .item9, .item10, div ul{
+   .item_6, .item6_, .item7, .item8, .item9, .item10, div ul{
       list-style-type: none;
       margin: 0;
       padding: 0;
