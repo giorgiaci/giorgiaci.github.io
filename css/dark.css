@@ -145,7 +145,7 @@ body {
      border-radius: 4px;
  
  }
-#why: hoover{
+#why: hover{
 cursor: pointer;
 }
  .fa-head a{text-decoration: none;color: #f0f321}
