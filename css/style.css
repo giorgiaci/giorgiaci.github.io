@@ -140,7 +140,7 @@ input {
   }
   introduction:first-child{font-size: 15px;}
   
-  #Why{
+  #why{
     width: 100%;
     padding: 10px 0;
     text-align: center;
@@ -153,6 +153,9 @@ input {
     border: 1px solid white;
       border-radius: 4px;
  
+  }
+ #why: hover{
+     cursor:pointer;
   }
   
   .fa-head a{text-decoration: none;padding:5px; color: black;}
