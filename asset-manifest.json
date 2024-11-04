@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a000e262.css",
-    "main.js": "/static/js/main.a7b687db.js",
+    "main.css": "/static/css/main.c0ba2347.css",
+    "main.js": "/static/js/main.ef76e4fd.js",
     "static/media/F+P.png": "/static/media/F+P.916df91334578c938bf2.png",
     "static/media/b&bdarre.png": "/static/media/b&bdarre.838bdd6aec1e9fe6df7a.png",
     "static/media/southsideweb.png": "/static/media/southsideweb.038349f1308f6655c595.png",
@@ -12,11 +12,11 @@
     "static/media/grid.png": "/static/media/grid.f2f2e49237c9ff0fa790.png",
     "static/media/live_chat.png": "/static/media/live_chat.aa5924e9bb7f3d034783.png",
     "index.html": "/index.html",
-    "main.a000e262.css.map": "/static/css/main.a000e262.css.map",
-    "main.a7b687db.js.map": "/static/js/main.a7b687db.js.map"
+    "main.c0ba2347.css.map": "/static/css/main.c0ba2347.css.map",
+    "main.ef76e4fd.js.map": "/static/js/main.ef76e4fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a000e262.css",
-    "static/js/main.a7b687db.js"
+    "static/css/main.c0ba2347.css",
+    "static/js/main.ef76e4fd.js"
   ]
 }
