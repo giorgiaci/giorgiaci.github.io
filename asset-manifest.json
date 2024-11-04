@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.097269eb.css",
-    "main.js": "/web/static/js/main.6878e203.js",
-    "static/media/F+P.png": "/web/static/media/F+P.916df91334578c938bf2.png",
-    "static/media/b&bdarre.png": "/web/static/media/b&bdarre.838bdd6aec1e9fe6df7a.png",
-    "static/media/southsideweb.png": "/web/static/media/southsideweb.038349f1308f6655c595.png",
-    "static/media/Giorgia.jpg": "/web/static/media/Giorgia.05431750caac5614e5e3.jpg",
-    "static/media/giorgiaci.github.png": "/web/static/media/giorgiaci.github.7fb5210bb311884ed304.png",
-    "static/media/Giorgia_Ciulla_CV.pdf": "/web/static/media/Giorgia_Ciulla_CV.e5c412040d6e827cc92b.pdf",
-    "static/media/scrollspy.png": "/web/static/media/scrollspy.73e43bc72039c5f04670.png",
-    "static/media/grid.png": "/web/static/media/grid.f2f2e49237c9ff0fa790.png",
-    "static/media/live_chat.png": "/web/static/media/live_chat.aa5924e9bb7f3d034783.png",
-    "index.html": "/web/index.html",
-    "main.097269eb.css.map": "/web/static/css/main.097269eb.css.map",
-    "main.6878e203.js.map": "/web/static/js/main.6878e203.js.map"
+    "main.css": "/static/css/main.a000e262.css",
+    "main.js": "/static/js/main.a7b687db.js",
+    "static/media/F+P.png": "/static/media/F+P.916df91334578c938bf2.png",
+    "static/media/b&bdarre.png": "/static/media/b&bdarre.838bdd6aec1e9fe6df7a.png",
+    "static/media/southsideweb.png": "/static/media/southsideweb.038349f1308f6655c595.png",
+    "static/media/Giorgia.jpg": "/static/media/Giorgia.05431750caac5614e5e3.jpg",
+    "static/media/giorgiaci.github.png": "/static/media/giorgiaci.github.7fb5210bb311884ed304.png",
+    "static/media/Giorgia_Ciulla_CV.pdf": "/static/media/Giorgia_Ciulla_CV.e5c412040d6e827cc92b.pdf",
+    "static/media/scrollspy.png": "/static/media/scrollspy.73e43bc72039c5f04670.png",
+    "static/media/grid.png": "/static/media/grid.f2f2e49237c9ff0fa790.png",
+    "static/media/live_chat.png": "/static/media/live_chat.aa5924e9bb7f3d034783.png",
+    "index.html": "/index.html",
+    "main.a000e262.css.map": "/static/css/main.a000e262.css.map",
+    "main.a7b687db.js.map": "/static/js/main.a7b687db.js.map"
   },
   "entrypoints": [
-    "static/css/main.097269eb.css",
-    "static/js/main.6878e203.js"
+    "static/css/main.a000e262.css",
+    "static/js/main.a7b687db.js"
   ]
 }
