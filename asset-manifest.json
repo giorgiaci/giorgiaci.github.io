@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/giorgia_ci/static/css/main.7ea05e81.css",
+    "main.js": "/giorgia_ci/static/js/main.fca6990f.js",
+    "static/media/F+P.png": "/giorgia_ci/static/media/F+P.916df91334578c938bf2.png",
+    "static/media/b&bdarre.png": "/giorgia_ci/static/media/b&bdarre.838bdd6aec1e9fe6df7a.png",
+    "static/media/southsideweb.png": "/giorgia_ci/static/media/southsideweb.038349f1308f6655c595.png",
+    "static/media/Giorgia.jpg": "/giorgia_ci/static/media/Giorgia.05431750caac5614e5e3.jpg",
+    "static/media/giorgiaci.github.png": "/giorgia_ci/static/media/giorgiaci.github.7fb5210bb311884ed304.png",
+    "static/media/Giorgia_Ciulla_CV.pdf": "/giorgia_ci/static/media/Giorgia_Ciulla_CV.e5c412040d6e827cc92b.pdf",
+    "static/media/scrollspy.png": "/giorgia_ci/static/media/scrollspy.73e43bc72039c5f04670.png",
+    "static/media/grid.png": "/giorgia_ci/static/media/grid.f2f2e49237c9ff0fa790.png",
+    "static/media/live_chat.png": "/giorgia_ci/static/media/live_chat.aa5924e9bb7f3d034783.png",
+    "index.html": "/giorgia_ci/index.html",
+    "main.7ea05e81.css.map": "/giorgia_ci/static/css/main.7ea05e81.css.map",
+    "main.fca6990f.js.map": "/giorgia_ci/static/js/main.fca6990f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea05e81.css",
+    "static/js/main.fca6990f.js"
+  ]
+}
