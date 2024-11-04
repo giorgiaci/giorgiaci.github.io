@@ -1,0 +1,79 @@
+.container_gap{
+    gap:15%;
+}
+
+h5{
+    line-height: 2rem;
+}
+.standout{
+    color: #4db5fffa;
+}
+.about_me{
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        #ab0759,
+        transparent
+    );
+    display: grid;
+    place-items: center;
+}
+
+.name{
+    font-size: xx-large;
+} 
+.about_me-image{
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
+}
+
+img{
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    min-height: 185.5px;
+}
+
+.about_me-image:hover{    
+    transform: rotate(0deg);
+}
+
+
+.controls{
+    display: flex;
+    gap: 1rem;
+}
+
+
+@media screen and (min-width: 1025px) {
+    .about_container{
+        padding-top: 6rem;
+    }
+
+    .about_me{
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .about_me{
+        margin: 2rem auto 4rem;
+    }
+    
+    .about_container{
+        padding-top: 2rem;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .about_me{        
+        margin: 0 auto 3rem;
+    }
+}

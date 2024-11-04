@@ -1,0 +1,45 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: 1fr 1fr;
+    background: #2c2c6c96;
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+}
+
+.content:hover{
+    background: transparent;
+    border-color: var(--primary-hover);
+    cursor: default;    
+}
+
+.details-icon{
+    margin-top: 6px;
+    color: var(--primary);
+}
+
+@media screen and (max-width: 1024px) {
+   .experiences_container{
+    grid-template-columns: 1fr;
+    flex-wrap: nowrap;
+   }
+   
+   .content{
+    padding: 2rem;
+    margin: 0 auto;
+    padding: 1rem;
+   }
+}
+
+
+@media screen and (max-width: 600px) {
+    .experiences_container{
+        gap: 1rem;
+        flex-wrap: wrap;
+    }  
+    .content {
+        width: 100%;
+        padding: 1rem 2rem;
+    }
+}
