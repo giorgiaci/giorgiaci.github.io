@@ -40,8 +40,8 @@ const cardData = [
     id:5,
     image: IMG5,
     title: 'Codecacademy project',
-    github:'https://github.com/giorgiaci/giorgiaci.github.io',
-    website:'https://giorgiaci.github.io/'
+    github:'https://github.com/giorgiaci/codecademy_proj',
+    website:null
    
   },
   {
