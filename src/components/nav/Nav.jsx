@@ -15,7 +15,7 @@ const Nav = () => {
   };
 
   return (
-    <nav className="container">
+    <nav className="container pt-3">
       <div className="nav-links">
 
         <button 

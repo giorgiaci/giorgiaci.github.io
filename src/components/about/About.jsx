@@ -34,7 +34,7 @@ const About = () => {
   const { width } = useWindowSize();
 
   return (
-    <section id='about' className='mt-3'>
+    <section id='about' className='mt-0'>
       <Nav />
       <div className="container about_container">
         <div className="d-flex container_gap">

@@ -39,7 +39,7 @@ const cardData = [
   {
     id:5,
     image: IMG5,
-    title: 'Codecacademy project',
+    title: 'Codecademy project',
     github:'https://github.com/giorgiaci/codecademy_proj',
     website:null
    
@@ -66,7 +66,7 @@ const Projects = () => {
               <div className="card-image">
                 <img className='w-100' src={image} alt={title} />
               </div>
-              <h3>{title}</h3>
+              <h3 className='mt-2'>{title}</h3>
               <div className="card-item-links">                
                 { website && <a href={website} className="btn btn-active" target='_blank' rel='noopener noreferrer'>Website</a>}
                 { github && <a href={github} className="btn" target='_blank' rel='noopener noreferrer'>Github</a>}

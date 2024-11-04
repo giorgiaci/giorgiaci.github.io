@@ -1,6 +1,6 @@
 import React from 'react';
 import './experiences.css';
-import { BsFillPatchCheckFill } from 'react-icons/bs'
+import { BsFillPatchCheckFill } from 'react-icons/bs';
 
 const Experiences = () => {
   let experiences = [

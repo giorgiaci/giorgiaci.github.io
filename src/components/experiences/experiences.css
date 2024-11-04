@@ -11,6 +11,7 @@
 .content:hover{
     background: transparent;
     border-color: var(--primary-hover);
+    border: 3px dashed;
     cursor: default;    
 }
 

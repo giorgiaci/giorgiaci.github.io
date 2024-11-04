@@ -28,8 +28,6 @@ h5{
 .about_me-image{
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
 }
 
 img{
@@ -37,10 +35,6 @@ img{
     width: 100%;
     object-fit: cover;
     min-height: 185.5px;
-}
-
-.about_me-image:hover{    
-    transform: rotate(0deg);
 }
 
 

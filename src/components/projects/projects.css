@@ -13,7 +13,8 @@
 }
 
 .card-item:hover {
-    border-color: var(--primary-hover);   
+    border-color: var(--primary-hover);
+    border: 3px dashed;  
     background: transparent;
 }
 
