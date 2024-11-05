@@ -66,8 +66,15 @@ img{
 }
 
 @media screen and (max-width: 600px) {
+    .header_container {
+        padding: 0 8px;
+    }
 
     .about_me{        
         margin: 0 auto 3rem;
+    }
+    
+    .controls{
+        justify-content: center;
     }
 }

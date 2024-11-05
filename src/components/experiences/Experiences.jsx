@@ -21,7 +21,7 @@ const Experiences = () => {
 
   return (
     <section id='experiences'>
-      <h2 className='text-center mt-5 mb-4'>Tech Stack</h2>
+      <h2 className='text-center mt-5 mb-4 mb-lg-5'>Tech Stack</h2>
 
       <div className="container experiences_container d-flex justify-content-evenly">
         <div className="content col-5">

@@ -56,7 +56,7 @@ const cardData = [
 const Projects = () => {
   return (
     <section id='projects'>
-      <h2 className='text-center mt-5 mb-3'>Some of my projects</h2>
+      <h2 className='text-center mt-5 mb-4 mb-lg-5'>Some of my projects</h2>
       <div className="container card_container">
 
       {
@@ -66,7 +66,7 @@ const Projects = () => {
               <div className="card-image">
                 <img className='w-100' src={image} alt={title} />
               </div>
-              <h3 className='mt-2'>{title}</h3>
+              <h3 className='mt-lg-3 mb-lg-3'>{title}</h3>
               <div className="card-item-links">                
                 { website && <a href={website} className="btn btn-active" target='_blank' rel='noopener noreferrer'>Website</a>}
                 { github && <a href={github} className="btn" target='_blank' rel='noopener noreferrer'>Github</a>}
